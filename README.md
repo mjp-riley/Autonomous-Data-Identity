@@ -21,9 +21,10 @@ Customer X visits the website of company A to buy product P using payment proces
 
 ## Cornerstones
 
-> ### Local first
->
-> - The internet should be primarily a means of communication between individual actors.
-> - Web applications should serve as a UI to view/manipulate local data and data of other actors to which one holds read/write permissions. Data held by application developers should ideally be limited to pointers to data stored by individual actors locally.
+### Local first
+
+- The internet should be primarily a means of communication between individual actors.
+
+- Web applications should serve as a UI to view/manipulate local data and data of other actors to which one holds read/write permissions. Data held by application developers should ideally be limited to pointers to data stored by individual actors locally.
 
 ---
